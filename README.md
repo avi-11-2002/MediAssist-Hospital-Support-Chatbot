@@ -10,7 +10,7 @@ The project combines a trained machine learning model with a Flask web applicati
 
 ## 🎥 Project Demo
 
-(https://github.com/user-attachments/assets/1c3f2622-9a5d-441c-8163-fd9d50307ce3).
+https://github.com/user-attachments/assets/1c3f2622-9a5d-441c-8163-fd9d50307ce3
 
 ---
 
