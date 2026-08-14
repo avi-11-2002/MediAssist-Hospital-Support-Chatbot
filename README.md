@@ -10,7 +10,7 @@ The project combines a trained machine learning model with a Flask web applicati
 
 ## 🎥 Project Demo
 
-[▶️ Watch the MediAssist AI Demo](https://youtu.be/0PYCzmkWL3A)
+[▶️ Watch the MediAssist AI Demo](assets/demo.mp4).
 
 ---
 
